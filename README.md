@@ -4,7 +4,7 @@ To run this project
 
  
 Step 1. Clone the project
-    $ git clone https://github.com/Suprodip62/AleshaMart.git
+    $ git clone https://github.com/Uthso66/AleshaMart-main.git
     
 Step 2: $ cd AleshaMart    
 
